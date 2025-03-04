@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+  body,#artInput{text-align: center;}
+  #artTable {
+    border-collapse: collapse;
+    width: 85%;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    margin-bottom:40px;
+  }
+  #artTable th, #artTable td {
+    text-align: left;
+    padding: 12px;
+    text-align: center;
+  
+  }
+  #artTable tr {
+    border-bottom: 1px solid #ddd;
+  
+  }
+  #artTable tr.header, #artTable tr:hover {
+    background-color: #f1f1f1;
+  
+  }
+  a {
+    color: #f56642;
+  }
+  
+  h2, h1, p {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  h1 {
+    color: #f56642;
+  }
