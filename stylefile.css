@@ -27,7 +27,7 @@
     color: #f56642;
   }
   
-  h2, h1, p {
+  h2, h1, p, th, tr {
     font-family: 'Nunito Sans', sans-serif;
   }
   h1 {
