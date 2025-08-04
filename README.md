@@ -1,1 +1,1 @@
-# devprojects76.github.io
+# Cybersecurity Policy Workshop Reading List 
